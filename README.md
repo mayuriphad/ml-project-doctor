@@ -1,8 +1,8 @@
 # ml-project-doctor
 
-[![PyPI](https://iag.shields.io/pypi/v/ml-project-doctor.svg)](https://pypi.org/project/ml-project-doctor/)
-[![Python](https://iag.shields.io/pypi/pyversions/ml-project-doctor.svg)](https://pypi.org/project/ml-project-doctor/)
-[![License: MIT](https://iag.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![PyPI](https://img.shields.io/pypi/v/ml-project-doctor.svg)](https://pypi.org/project/ml-project-doctor/)
+[![Python](https://img.shields.io/pypi/pyversions/ml-project-doctor.svg)](https://pypi.org/project/ml-project-doctor/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 **A static health check for machine learning projects.**
 
