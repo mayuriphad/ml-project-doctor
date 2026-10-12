@@ -1,6 +1,7 @@
 # ml-project-doctor
 
 [![PyPI](https://img.shields.io/pypi/v/ml-project-doctor.svg)](https://pypi.org/project/ml-project-doctor/)
+[![Downloads](https://img.shields.io/pypi/dm/ml-project-doctor.svg)](https://pypistats.org/packages/ml-project-doctor)
 [![Python](https://img.shields.io/pypi/pyversions/ml-project-doctor.svg)](https://pypi.org/project/ml-project-doctor/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
